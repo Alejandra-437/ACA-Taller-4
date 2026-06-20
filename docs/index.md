@@ -6,9 +6,9 @@ authors:
 date: 2026-06-20
 ---
 
-# :material-git: Manual de Git y GitHub
+# :material-git: Guía de Git y GitHub
 
-Bienvenido al **Manual de Git y GitHub**, una guía completa sobre el sistema de control de versiones más utilizado en el mundo del desarrollo de software.
+Bienvenido a la **Guía de Git y GitHub**, una guía completa sobre el sistema de control de versiones más utilizado en el mundo del desarrollo de software.
 
 ![Logo Git](img/git.png){ width="300" }
 

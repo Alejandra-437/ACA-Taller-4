@@ -171,10 +171,10 @@ Cualquier contexto adicional.
 | Etiqueta | Uso | Color |
 |----------|-----|-------|
 | `bug` | Reporte de error | :red_circle: |
-| `enhancement` | Mejora o nueva funcionalidad | :large_blue_circle: |
+| `enhancement` | Mejora o nueva funcionalidad | :blue_circle: |
 | `documentation` | Cambios en documentación | :large_blue_diamond: |
-| `good first issue` | Ideal para nuevos contribuidores | :large_purple_circle: |
-| `help wanted` | Se necesita ayuda | :large_green_circle: |
+| `good first issue` | Ideal para nuevos contribuidores | :purple_circle: |
+| `help wanted` | Se necesita ayuda | :green_circle: |
 | `question` | Pregunta o duda | :large_orange_diamond: |
 
 ## :material-bell-outline: Notificaciones y menciones

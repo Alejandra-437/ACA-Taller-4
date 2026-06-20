@@ -1,11 +1,14 @@
-site_name: Manual de Git y GitHub
+site_name: Guía de Git
 site_description: Documentación técnica sobre control de versiones con Git y trabajo colaborativo en GitHub.
 site_author: Alejandra Vanessa Serrano Córdova
 site_url: https://alejandra-437.github.io/ACA-Taller-4/
+repo_url: https://github.com/Alejandra-437/ACA-Taller-4
+repo_name: Alejandra-437/ACA-Taller-4
+edit_uri: ""
 
 # Estructura de navegación
 nav:
-  - Inicio: index.md
+  - Guía de Git: index.md
   - Guía Básica:
       - Introducción a Git: guia/introduccion.md
       - Comandos esenciales: guia/comandos.md
