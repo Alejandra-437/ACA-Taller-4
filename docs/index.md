@@ -2,7 +2,7 @@
 title: Inicio
 summary: Manual completo de Git y GitHub
 authors:
-  - Estudiante ACA
+  - Alejandra Vanessa Serrano Córdova
 date: 2026-06-20
 ---
 

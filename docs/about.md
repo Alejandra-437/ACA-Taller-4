@@ -71,7 +71,7 @@ Este manual cumple con todos los requisitos del taller:
 
 | Campo | Valor |
 |-------|-------|
-| **Estudiante** | Estudiante ACA |
+| **Estudiante** | Alejandra Vanessa Serrano Córdova |
 | **Curso** | Aplicación De Código Abierto |
 | **Taller** | Documentación técnica con MkDocs |
 | **Fecha** | Junio 2026 |
