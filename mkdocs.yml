@@ -62,6 +62,7 @@ plugins:
       fallback_to_build_date: true
       locale: es
       type: date
+  - mermaid2
 
 # Extensiones de Markdown
 markdown_extensions:
@@ -73,7 +74,11 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.details
-  - pymdownx.superfences
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.tabbed:
       alternate_style: true
   - pymdownx.highlight:
