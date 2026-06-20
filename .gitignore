@@ -1,0 +1,35 @@
+# Archivos generados por MkDocs
+/site/
+
+# Entornos virtuales
+/venv/
+/.venv/
+/env/
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# IDEs y editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos de logs
+*.log
+logs/
+
+# Variables de entorno
+.env
+.env.local
+.env.*.local
